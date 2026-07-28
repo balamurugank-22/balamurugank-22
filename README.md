@@ -1,6 +1,3 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Balamurugan K</h1>
-
 <!-- Animated Typing -->
 <p align="center">
   <img
@@ -17,38 +14,6 @@
 - 🌱 Always learning new technologies
 
 ---
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,html,css,js,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=balamurugank-22&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=balamurugank-22&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect
-
-<p>
-  <a href="https://github.com/balamurugank-22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-  <!-- Replace with your profile -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
 
 <!-- Footer -->
 <p align="center">
