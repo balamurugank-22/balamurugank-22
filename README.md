@@ -1,9 +1,8 @@
 <!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Balamurugan K</h1>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:8E2DE2&height=280&section=header&text=Balamurugan%20K&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"
-    width="100%"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer" />
 </p>
 
 <!-- Animated Typing -->
