@@ -1,11 +1,17 @@
-<!-- Header -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Balamurugan%20K&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:8E2DE2&height=280&section=header&text=Balamurugan%20K&fontSize=65&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=20"
+    width="100%"
+  />
 </p>
 
-<!-- Typing Animation -->
+<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+%26+Machine+Learning;Full+Stack+Developer" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Hi+%F0%9F%91%8B+I'm+Balamurugan;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer"
+    alt="Typing SVG"
+  />
 </p>
 
 ## 👋 About Me
